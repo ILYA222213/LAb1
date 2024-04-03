@@ -1,0 +1,14 @@
+C:\Users\ilruz\source\repos\522121212\522121212\bin\Debug\net8.0\522121212.exe
+C:\Users\ilruz\source\repos\522121212\522121212\bin\Debug\net8.0\522121212.deps.json
+C:\Users\ilruz\source\repos\522121212\522121212\bin\Debug\net8.0\522121212.runtimeconfig.json
+C:\Users\ilruz\source\repos\522121212\522121212\bin\Debug\net8.0\522121212.dll
+C:\Users\ilruz\source\repos\522121212\522121212\bin\Debug\net8.0\522121212.pdb
+C:\Users\ilruz\source\repos\522121212\522121212\obj\Debug\net8.0\522121212.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ilruz\source\repos\522121212\522121212\obj\Debug\net8.0\522121212.AssemblyInfoInputs.cache
+C:\Users\ilruz\source\repos\522121212\522121212\obj\Debug\net8.0\522121212.AssemblyInfo.cs
+C:\Users\ilruz\source\repos\522121212\522121212\obj\Debug\net8.0\522121212.csproj.CoreCompileInputs.cache
+C:\Users\ilruz\source\repos\522121212\522121212\obj\Debug\net8.0\522121212.dll
+C:\Users\ilruz\source\repos\522121212\522121212\obj\Debug\net8.0\refint\522121212.dll
+C:\Users\ilruz\source\repos\522121212\522121212\obj\Debug\net8.0\522121212.pdb
+C:\Users\ilruz\source\repos\522121212\522121212\obj\Debug\net8.0\522121212.genruntimeconfig.cache
+C:\Users\ilruz\source\repos\522121212\522121212\obj\Debug\net8.0\ref\522121212.dll
